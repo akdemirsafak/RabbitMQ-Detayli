@@ -1,0 +1,17 @@
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\bin\Debug\net8.0\Consumer.exe
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\bin\Debug\net8.0\Consumer.deps.json
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\bin\Debug\net8.0\Consumer.runtimeconfig.json
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\bin\Debug\net8.0\Consumer.dll
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\bin\Debug\net8.0\Consumer.pdb
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\obj\Debug\net8.0\Consumer.csproj.AssemblyReference.cache
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\obj\Debug\net8.0\Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\obj\Debug\net8.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\obj\Debug\net8.0\Consumer.AssemblyInfo.cs
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\obj\Debug\net8.0\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\obj\Debug\net8.0\Consumer.csproj.Up2Date
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\obj\Debug\net8.0\Consumer.dll
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\obj\Debug\net8.0\refint\Consumer.dll
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\obj\Debug\net8.0\Consumer.pdb
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\obj\Debug\net8.0\Consumer.genruntimeconfig.cache
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Consumer\obj\Debug\net8.0\ref\Consumer.dll

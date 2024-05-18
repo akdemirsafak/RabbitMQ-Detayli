@@ -1,0 +1,17 @@
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\bin\Debug\net8.0\Publisher.exe
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\bin\Debug\net8.0\Publisher.deps.json
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\bin\Debug\net8.0\Publisher.runtimeconfig.json
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\bin\Debug\net8.0\Publisher.dll
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\bin\Debug\net8.0\Publisher.pdb
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\obj\Debug\net8.0\Publisher.csproj.AssemblyReference.cache
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\obj\Debug\net8.0\Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\obj\Debug\net8.0\Publisher.AssemblyInfoInputs.cache
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\obj\Debug\net8.0\Publisher.AssemblyInfo.cs
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\obj\Debug\net8.0\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\obj\Debug\net8.0\Publisher.csproj.Up2Date
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\obj\Debug\net8.0\Publisher.dll
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\obj\Debug\net8.0\refint\Publisher.dll
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\obj\Debug\net8.0\Publisher.pdb
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\obj\Debug\net8.0\Publisher.genruntimeconfig.cache
+C:\Users\akdem\Desktop\RabbitMQ\RabbitMQ\Publisher\obj\Debug\net8.0\ref\Publisher.dll
